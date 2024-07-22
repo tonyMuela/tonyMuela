@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi, I'm Tony Muela
+
+#I've played around with a few coding languages but Python is just too much fun
 
 <!--
 **tonyMuela/tonyMuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
