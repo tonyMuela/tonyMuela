@@ -1,6 +1,6 @@
 ## Hi, I'm Tony Muela
 
-- 🐍 I've played around with a few coding languages but Python is just too much fun
+- 🐍 I've worked with a few coding languages but Python is just too much fun
 - 📈 I firt started coding using pinescript to create customized stock trading indicators
 - 📺 I watched Silicon Valley and went "OOh, that looks cool. I want to do that."
 - 📱 I'm currently plaing around with Swift
